@@ -6088,6 +6088,7 @@ dependencies = [
  "uv-platform-tags",
  "uv-preview",
  "uv-pypi-types",
+ "uv-version",
  "uv-warnings",
  "walkdir",
  "zip",
